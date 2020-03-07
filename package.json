@@ -1,0 +1,15 @@
+{
+  "name": "drop-down-menu",
+  "version": "0.0.1",
+  "description": "A simple drop down menu plugin",
+  "main": "drop-down-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drop-down-menu",
+    "plugin"
+  ],
+  "author": "Hammad Ahmed",
+  "license": "ISC"
+}
